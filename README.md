@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/darknut__">X</a> · <a href="https://corentinxm.github.io">Website</a>
+  <a href="mailto:c.michaux@uliege.be">Email</a> · <a href="https://corentinxm.github.io">Website</a>
 </p>
 
